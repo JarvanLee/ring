@@ -3,10 +3,12 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>appName</key>
+		<key>c</key>
+		<true/>
+		<key>name</key>
 		<string>Monoman Ring</string>
-		<key>appstoreVersion</key>
-		<string></string>
+		<key>ver</key>
+		<string>1.0.0</string>
 	</dict>
 </array>
 </plist>
